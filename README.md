@@ -5,6 +5,6 @@ I'm currently studying Statistics and Computer Science at the University of Toro
 In my free time, I love to play soccer, read and go to the gym
 
 ## Contact Me
-- LinkedIn: [linkedin.com/in/nart-machfj]  
+- [LinkedIn](https://www.linkedin.com/in/nart-machfj)
 - Email: nmachfj@gmail.com
 
